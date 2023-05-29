@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ca59624.css",
+    "main.js": "/static/js/main.ea340675.js",
+    "static/js/787.e7ce96f4.chunk.js": "/static/js/787.e7ce96f4.chunk.js",
+    "static/media/1.apk": "/static/media/1.c7ada58788ca20f2e5f6.apk",
+    "static/media/2.apk": "/static/media/2.c7ada58788ca20f2e5f6.apk",
+    "static/media/youtube-revanced-v18.15.40-all.apk": "/static/media/youtube-revanced-v18.15.40-all.c7ada58788ca20f2e5f6.apk",
+    "static/media/z 2.apk": "/static/media/z 2.c7ada58788ca20f2e5f6.apk",
+    "index.html": "/index.html",
+    "main.1ca59624.css.map": "/static/css/main.1ca59624.css.map",
+    "main.ea340675.js.map": "/static/js/main.ea340675.js.map",
+    "787.e7ce96f4.chunk.js.map": "/static/js/787.e7ce96f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca59624.css",
+    "static/js/main.ea340675.js"
+  ]
+}
