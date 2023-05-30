@@ -6,7 +6,11 @@ function App() {
 
   useEffect(() => {
     const importApkFiles = async () => {
-      const apkFileContext = require.context("./apk-files", false, /\.apk$/);
+      const apkFileContext = require.context(
+        "../../apk-files",
+        false,
+        /\.apk$/
+      );
       const apkFilePaths = apkFileContext.keys();
       const apkFileNames = apkFilePaths.map((filePath) =>
         filePath.replace("./", "")
